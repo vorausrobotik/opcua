@@ -7,9 +7,7 @@ use std::sync::{
     Arc,
 };
 
-use chrono;
 use chrono::TimeDelta;
-use rand;
 
 use opcua::server::{events::event::*, prelude::*};
 
