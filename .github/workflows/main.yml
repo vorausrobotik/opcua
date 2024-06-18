@@ -2,7 +2,7 @@ name: OPC UA for Rust
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, staging/ranger ]
   pull_request:
     branches: [ master ]
 
